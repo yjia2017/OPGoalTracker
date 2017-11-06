@@ -11,8 +11,13 @@
         android:id="@+id/constraintLayout"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+<<<<<<< HEAD
         tools:context="ca.ualberta.cs.opgoaltracker.HabitAddActivity">
             
+=======
+        tools:context="ca.ualberta.cs.opgoaltracker.activity.HabitAddActivity">
+
+>>>>>>> 132ce13ef03ab0910cfa2636a0368161992830fe
         <TextView
             android:id="@+id/textTitleAdd"
             android:layout_width="wrap_content"
